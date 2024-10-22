@@ -25,22 +25,5 @@ This project implements a contact form using TypeScript, HTML, and CSS, demonstr
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/repository-name.git
-   
-Navigate to the project directory:
- ```bash
-cd repository-name
-
-
-Open index.html in your web browser to view and test the contact form.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-### Additional Suggestions
-- **Installation Instructions**: If there are any specific dependencies or build steps, consider adding them under "Getting Started."
-- **Usage Examples**: You might include screenshots or examples of how the form looks and behaves.
-- **Contribution Guidelines**: If you want others to contribute, add a section on how to do so.
-- **Acknowledgments**: Recognize any libraries, tools, or resources you used in your project.
 
 
